@@ -1,6 +1,6 @@
 # Food Delivery App - Flutter UI 
 
-This is our complete food delivery app, where I will share with you how you can create a nice clean screens for your app that can run both Andriod and iOS devices because it builds with #flutter.
+This is  complete food delivery app,
 
 ## [Watch it on YouTube](https://www.youtube.com/playlist?list=PLFl8xqtYMecwuFQxVMXkWeYJfXCy38KLS)
 
