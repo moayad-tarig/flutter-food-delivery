@@ -38,18 +38,11 @@ The following Flutter packages are used in this project:
 
 Here are some previews of the app:
 
-![Preview 1](https://i.ibb.co/dpfGWw9/1.png)
 ![1](https://github.com/user-attachments/assets/434422dd-c913-426f-bd06-ed89badbc75a)
 ![3](https://github.com/user-attachments/assets/96e51e89-55de-4de0-9f16-cb8732143ea1)
 ![2](https://github.com/user-attachments/assets/6851617e-dec8-4a4e-aae8-5f1e1206d647)
+![4](https://github.com/user-attachments/assets/1a29f163-432a-4735-adc1-4bdf447366f6)
 
-
-![Preview 2](https://i.ibb.co/dp8H29h/2.png)
-![Preview 3](https://i.ibb.co/DLMdqW9/3.png)
-![Preview 4](https://i.ibb.co/j6zBW8V/4.png)
-![Preview 5](https://i.ibb.co/9vhkDqX/5.png)
-![Preview 6](https://i.ibb.co/XFXnRTc/6.png)
-![Preview 7](https://i.ibb.co/5RXvk8s/7.png)
 
 ---
 
