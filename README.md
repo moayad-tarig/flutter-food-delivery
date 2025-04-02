@@ -1,48 +1,50 @@
 # Food Delivery App - Flutter UI 
 
-This is  complete food delivery app,
+This is a complete food delivery app built using Flutter. The app features a clean and modern UI design and is compatible with both Android and iOS devices. It includes multiple screens and functionalities to provide a seamless user experience.
 
-## [Watch it on YouTube](https://www.youtube.com/playlist?list=PLFl8xqtYMecwuFQxVMXkWeYJfXCy38KLS)
+## Features
 
-**Packages we are using:**
+- Cross-platform support (Android & iOS)
+- Clean and responsive UI
+- Multiple screens for user interaction
+- Bottom navigation bar for easy navigation
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+## Packages Used
 
+The following Flutter packages are used in this project:
 
-### Video Preview of Final UI
+- **flutter_svg**: For rendering SVG images.  
+  [flutter_svg](https://pub.dev/packages/flutter_svg)
+- **clip_shadow**: For adding shadows to clipped widgets.  
+  [clip_shadow](https://pub.dev/packages/clip_shadow)
+- **cupertino_icons**: For iOS-style icons.  
+  [cupertino_icons](https://pub.dev/packages/cupertino_icons)
 
-## Screens it contains:
+## Screens Included
 
-=> Onboarding
-
-=> Login
-
-=> Forgot Password
-
-=> Sign Up
-
-=> Complete Profile
-
-=> OTP Verification
-
-=> Home Page
-
-=> Product Details
-
-=> Order
-
-=> Profile
-
-=> Bottom Navigation Bar
-
-
-Thanks for your love and support 🙏 
+- Onboarding
+- Login
+- Forgot Password
+- Sign Up
+- Complete Profile
+- OTP Verification
+- Home Page
+- Product Details
+- Order
+- Profile
+- Bottom Navigation Bar
 
 ## Photos
-![Preview](https://i.ibb.co/dpfGWw9/1.png)
-![Preview](https://i.ibb.co/dp8H29h/2.png)
-![Preview](https://i.ibb.co/DLMdqW9/3.png)
-![Preview](https://i.ibb.co/j6zBW8V/4.png)
-![Preview](https://i.ibb.co/9vhkDqX/5.png)
-![Preview](https://i.ibb.co/XFXnRTc/6.png)
-![Preview](https://i.ibb.co/5RXvk8s/7.png)
+
+Here are some previews of the app:
+
+![Preview 1](https://i.ibb.co/dpfGWw9/1.png)
+![Preview 2](https://i.ibb.co/dp8H29h/2.png)
+![Preview 3](https://i.ibb.co/DLMdqW9/3.png)
+![Preview 4](https://i.ibb.co/j6zBW8V/4.png)
+![Preview 5](https://i.ibb.co/9vhkDqX/5.png)
+![Preview 6](https://i.ibb.co/XFXnRTc/6.png)
+![Preview 7](https://i.ibb.co/5RXvk8s/7.png)
+
+---
+
